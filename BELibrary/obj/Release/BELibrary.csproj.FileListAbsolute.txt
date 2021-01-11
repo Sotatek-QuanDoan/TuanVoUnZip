@@ -1,0 +1,17 @@
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\bin\Release\BELibrary.dll.config
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\bin\Release\BELibrary.dll
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\bin\Release\BELibrary.pdb
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\bin\Release\EntityFramework.dll
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\bin\Release\EntityFramework.xml
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.csprojAssemblyReference.cache
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.Migrations.Init_Database.resources
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.Migrations.Change_Gender_User_Table.resources
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.Migrations.Add_LectureId_To_StudentTest_Table.resources
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.Migrations.Add_Status_To_StudentTest_Table.resources
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.Migrations.Allow_Null_ReplyFile_StudentTest.resources
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.csproj.GenerateResource.cache
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.csproj.CopyComplete
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.dll
+C:\Users\ThuyLinh\Downloads\Project\KTLan2\BELibrary\obj\Release\BELibrary.pdb
